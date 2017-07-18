@@ -1,0 +1,11 @@
+It makes it easy to compare files in case you are trying to debug huge code.
+Manually is prone to error
+Faster and more efficent
+Applies to different kind of files
+
+Version control makes it easier to restorte files
+You can edit without thinking too much about older files
+Can allow multiple users to collobrate easily
+mistakes van be easily reverted
+
+Manual commits allow for keeping commits logical. Easy to understand if done properly and user is incontrol. However on the downside it can also things difficult depending on user action data could be lost if comits are not done at regular intervals making it more error prone.
