@@ -1,0 +1,1 @@
+Staging lets me work on multiple files and then check them in a logical manner since the fikle is added to the repo only by staging and not just adding to the folder.
