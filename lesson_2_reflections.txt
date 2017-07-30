@@ -1,3 +1,5 @@
 Staging lets me work on multiple files and then check them in a logical manner since the fikle is added to the repo only by staging and not just adding to the folder.
 
 Brnaches make it easy to create a new copy of the data while trying to make new changes or show a quick demo. They alos lets you develop in parallel and experement new changes.
+
+Merging is powerful tool in collaboration but at the sametime we have to be careful on how to merge. Deatched heads can be issue and will result in loss of work unless done properly.
